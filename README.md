@@ -7,4 +7,4 @@
 
 ---
 
-### <img src="https://cdn.betterttv.net/emote/5e1bd08688e62a5f14dc6316/3x.webp" width="30"> about me:
+### <img src="https://cdn.betterttv.net/emote/5e1bd08688e62a5f14dc6316/3x.webp" width="10"> about me:
