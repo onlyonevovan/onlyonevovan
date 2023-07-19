@@ -1,9 +1,8 @@
 <div id="header" align="center">
-  <img src="https://em-content.zobj.net/thumbs/160/apple/285/man-technologist_1f468-200d-1f4bb.png" width="100"/>
-  
+  <img src="https://em-content.zobj.net/thumbs/160/apple/285/man-technologist_1f468-200d-1f4bb.png" width="100" alt="Man Technologist"/>
 </div>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=onlyonevovan&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=onlyonevovan&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
 ---
@@ -18,3 +17,7 @@
 ---
 
 <h1>Languages 🛠️</h1>
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
