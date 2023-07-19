@@ -14,3 +14,7 @@
 - 💾 Learning Python for 5+ years.
 - ⚡ I am a Software Engineer, in my free time im making challenges for myself to get better.
 - 📫 Contact me: <a href="mailto:vova@onlyonevovan.ru"><img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&link=mailto:vova@onlyonevovan.ru" alt="Email" /></a>
+
+---
+
+<h1>Languages 🛠️</h1>
