@@ -8,9 +8,6 @@
 
 ---
 
-<h1>
-  Hi there!
-  <img src="https://cdn.betterttv.net/emote/5c0e1a3c6c146e7be4ff5c0c/3x.webp" width="30px"/>
-</h1>
+<h1>Hi there! 👋</h1>
 
 ### <img src="https://cdn.betterttv.net/emote/5e1bd08688e62a5f14dc6316/3x.webp" width="25"> About me:
